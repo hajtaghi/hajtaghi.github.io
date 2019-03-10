@@ -7,3 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Research Interests
+======
+My research interests are Machine Learning, Social Networks and Data Analysis.
